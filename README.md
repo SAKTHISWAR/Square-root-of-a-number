@@ -31,7 +31,7 @@ RegisterNumber: 22009028
 ```
 
 ## Output:
-![](root.png)
+![](sq1.png)
 
 
 ## Result:
